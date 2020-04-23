@@ -30,7 +30,38 @@ Markdown是一个功能强大的文字格式编辑器，能让文档好看起来
 * 在搭建个人网页的时候，在 [Peakofmountains.github.io](https://peakofmountains.github.io/)这个网页要访问到我的个人网页时，这个仓库里只能有一个html文件，不能有其他的文件，访问的显示也是html文件的内容
 * 如果不想自己写html文件的话，也可以采用选择主题(默认建立READEME.md文件)，同样这时候也就要求仓库里只能由这一个文件
 * 在GitHub上进行了相应的修改操作后如果访问的仍是原先的内容，是缓存没有清理的缘故，用快捷键'CTRL+shift+delete'启动清空缓存，在访问就可以看见修改后的效果了
-* 也可以在其他仓库中建立网页，访问的方法就是__用户名.github.io/仓库名__
+* 也可以在其他仓库中建立网页，访问的方法就是***用户名.github.io/仓库名***
 * GitHub上建立的网页只是静态网页
 ![image](https://w.wallhaven.cc/full/nr/wallhaven-nr2okq.jpg)
 
+* * * * * * * *
+
+## 2020年4月23日，星期四
+
+在GitHub上快速找到需要找到的东西也是一项技能-----学！
+
+感谢[知乎的回答](https://zhuanlan.zhihu.com/p/112895187)给我的启发
+
+下面是我根据教程总结的几个搜索方法吧：
+
+以搜索spider为例
+
+* 基本格式:直接输入 spider ------这样搜索太宽泛了基本上emmm
+* 输入不区分大小写
+* in:name spider 这样能检索到名字，基本格式，可以在后面继续加东西
+* in:description pictures 在描述部分筛选
+* in:readme spider 在readme中筛选
+
+
+上面的这是搜索范围的限定，下面的是在基础上进一步加限制条件
+> 使用方法例:in:name spider stars:>1000 forks:>1000 这样使用
+
+
+* stars:>1000 表示限制条件stars要大于1000
+* language:python 表示限制筛选使用的语言
+* forks:>1000 表示被forks的次数大于1000
+* pushed:>2020-04-23 表示把项目的最后更新时间限制到2020-04-23
+
+继续努力！
+
+-------------------------------
