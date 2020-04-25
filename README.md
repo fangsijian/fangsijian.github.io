@@ -3,6 +3,7 @@
 我在这里记录下我在GitHub上学习的点点滴滴，记录错误，记录启示，记录心情！
 
 ![image](https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png)
+### [我的Java学习中总结的一些要注意的知识](https://github.com/PeakofMountains/DailyPractice/blob/master/Java/java.md)
 
 ## 2020年4月19日，星期日
 
