@@ -4,7 +4,7 @@
 
 ![image](https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png)
 ### [我的Java学习中总结的一些要注意的知识](https://github.com/PeakofMountains/DailyPractice/blob/master/Java/java.md)
-
+### [我的Python爬虫学习中总结的一些要注意的知识](https://github.com/PeakofMountains/DailyPractice/blob/master/pythonspider/README.md)
 ## 2020年4月19日，星期日
 
 今天学习了怎么用Markdown来编辑一个文本通过[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
