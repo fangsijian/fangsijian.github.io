@@ -4,72 +4,25 @@
 
 ![image](https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png)
 ### [我的Java学习中总结的一些要注意的知识](https://github.com/PeakofMountains/DailyPractice/blob/master/Java/java.md)
+
+![image](https://w.wallhaven.cc/full/xl/wallhaven-xlk9yv.jpg)
+
 ### [我的Python爬虫学习中总结的一些要注意的知识](https://github.com/PeakofMountains/DailyPractice/blob/master/pythonspider/README.md)
-## 2020年4月19日，星期日
 
-今天学习了怎么用Markdown来编辑一个文本通过[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+![image](https://w.wallhaven.cc/full/xl/wallhaven-xl2qgo.jpg)
 
-Markdown是一个功能强大的文字格式编辑器，能让文档好看起来，还能实现链接，图片等功能，学起来很简单，用的时候也不麻烦。
+### [学习markdown的应用过程中碰到的问题](https://github.com/PeakofMountains/DailyPractice/blob/master/markdown/markdown.md)
 
-下面是我在学习和使用Markdown过程中的一些错误启示：
+![image](https://w.wallhaven.cc/full/13/wallhaven-13mk9v.jpg)
 
-* 在标题的使用时，符号'#'和要输入的文字之间要有一个空格才能识别为一个一级标题，其余的项目符号也一样
-* 在段落的使用时，敲一个回车之后并没有默认换行，要手都敲两次回车，或者在上一行的末尾先敲两个空格再敲一下回车才能形成分行的效果(文字之前有项目符号的除外)
-* 图片的插入使用时，如果后面有标记内容，括号里的图片地址和标记内容中间要有空格隔开
-* ` ``` `来包裹一段代码，并指定代码的语言(也可以不指定)，实现代码段的效果，但是要注意一对` ``` `符号要上下对齐，同时要求代码必须严格对齐，注意大括号是否对齐，所有的大括号都不能超过类的修饰限定符之前
-* 用单个的 ` 符号可以引用单行代码片段或者一个函数
-* 分割线的使用要保证当前行没有其他符号、文字
+### [学习在GitHub上建立个人博客](https://github.com/PeakofMountains/DailyPractice/blob/master/PersonalBlog/PersonalBlog.md)
+
+![image](https://w.wallhaven.cc/full/ym/wallhaven-ymlrdl.jpg)
+
+### [学习在GitHub上高效搜索](https://github.com/PeakofMountains/DailyPractice/blob/master/Githubsearch/Githubsearch.md)
 
 
-* * * * * *
 
-今天晚上还在[B站](https://www.bilibili.com/video/BV1st411r7Sj?from=search&seid=2714152515882042670)上学习了git和GitHub的基本使用方法，学会了从git向GitHub提交文件，修改文件的基本步骤，以及基于GitHub搭建简单的个人博客方法
-
-下面时学习和使用时的一些错误和心得：
-
-
-* 先要明确从git向GitHub提交文件的流程，是从工作区先用'git add 文件名'的方式把文件提交到缓存区，再用git commit -m ''将缓存区的文件提交到本机仓库中去
-，最后通过git push将本机仓库同步到GitHub仓库。
-* 使用git commit -m ''命令的时候一定记着commit 后面的参数以及引号中的内容
-* 使用git push 之前要先保证修改之前本地仓库与GitHub端仓库文件是一致的，否则会报错
-* 在搭建个人网页的时候，在 [Peakofmountains.github.io](https://peakofmountains.github.io/)这个网页要访问到我的个人网页时，这个仓库里只能有一个html文件，不能有其他的文件，访问的显示也是html文件的内容
-* 如果不想自己写html文件的话，也可以采用选择主题(默认建立READEME.md文件)，同样这时候也就要求仓库里只能由这一个文件
-* 在GitHub上进行了相应的修改操作后如果访问的仍是原先的内容，是缓存没有清理的缘故，用快捷键'CTRL+shift+delete'启动清空缓存，在访问就可以看见修改后的效果了
-* 也可以在其他仓库中建立网页，访问的方法就是***用户名.github.io/仓库名***
-* GitHub上建立的网页只是静态网页
-![image](https://w.wallhaven.cc/full/nr/wallhaven-nr2okq.jpg)
-
-* * * * * * * *
-
-## 2020年4月23日，星期四
-
-在GitHub上快速找到需要找到的东西也是一项技能-----学！
-
-感谢[知乎的回答](https://zhuanlan.zhihu.com/p/112895187)给我的启发
-
-下面是我根据教程总结的几个搜索方法吧：
-
-以搜索spider为例
-
-* 基本格式:直接输入 spider ------这样搜索太宽泛了基本上emmm
-* 输入不区分大小写
-* in:name spider 这样能检索到名字，基本格式，可以在后面继续加东西
-* in:description pictures 在描述部分筛选
-* in:readme spider 在readme中筛选
-
-
-上面的这是搜索范围的限定，下面的是在基础上进一步加限制条件
-> 使用方法例:in:name spider stars:>1000 forks:>1000 这样使用
-
-
-* stars:>1000 表示限制条件stars要大于1000
-* language:python 表示限制筛选使用的语言
-* forks:>1000 表示被forks的次数大于1000
-* pushed:>2020-04-23 表示把项目的最后更新时间限制到2020-04-23
-
-继续努力！
-
--------------------------------
 
 认识游戏才能真正地戒掉网瘾，[为什么玩游戏会上瘾？从心理学上怎么分析](https://www.zhihu.com/question/20880927/answer/82795193)
 
@@ -79,6 +32,6 @@ Markdown是一个功能强大的文字格式编辑器，能让文档好看起来
 
 * 谨记：**不要**后悔自责沉浸在挫败感中
 
-*我曾陷入游戏的懊悔和愧疚中，我能走出来，我一定可以走出来*
+
 
 -----------------------------------
