@@ -30,4 +30,6 @@
 ### [学习基本算法在数学建模中的使用](https://github.com/PeakofMountains/DailyPractice/blob/master/AlgorithmLearning/AlgorithmLearning.md)
 
 
+### [学习通过pywin32模块实现用qq发送指定消息](https://github.com/PeakofMountains/DailyPractice/blob/master/QQmessageSend)
+
 -----------------------------------
