@@ -32,4 +32,7 @@
 
 ### [学习通过pywin32模块实现用qq发送指定消息](https://github.com/PeakofMountains/DailyPractice/blob/master/QQmessageSend)
 
+
+### [学习正则表达式](https://github.com/PeakofMountains/DailyPractice/blob/master/regularexpression/regularexpression.md)
+
 -----------------------------------
