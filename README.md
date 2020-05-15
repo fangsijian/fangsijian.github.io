@@ -38,4 +38,7 @@
 
 ### [学习正则表达式](https://github.com/PeakofMountains/DailyPractice/blob/master/regularexpression/regularexpression.md)
 
+
+### [通过获得QQmusic的评论实例学习爬虫中应对Json的处理手段](https://github.com/PeakofMountains/DailyPractice/blob/master/GetQQmusiccomments/GetQQmusiccomments.py)
+
 -----------------------------------
