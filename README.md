@@ -41,4 +41,6 @@
 
 ### [通过获得QQmusic的评论实例学习爬虫中应对Json的处理手段](https://github.com/PeakofMountains/DailyPractice/blob/master/GetQQmusiccomments/GetQQmusiccomments.py)
 
+### [使用Postman自动生成请求代码，可用于Json格式的网页请求](https://github.com/PeakofMountains/DailyPractice/blob/master/CreatecodebyPostman/CreatecodebyPostman.md)
+
 -----------------------------------
