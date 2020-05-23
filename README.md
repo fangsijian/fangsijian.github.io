@@ -43,4 +43,7 @@
 
 ### [使用Postman自动生成请求代码，可用于Json格式的网页请求](https://github.com/PeakofMountains/DailyPractice/blob/master/CreatecodebyPostman/CreatecodebyPostman.md)
 
+### [爬取彩虹屁网站将内容写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/GetBeautifulWord/GetBeautifulWord.py)
+
+![image](https://pic2.zhimg.com/80/v2-f67a04cacf979657bbf052b6f26e65b1_1440w.jpg)
 -----------------------------------
