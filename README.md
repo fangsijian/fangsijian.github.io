@@ -45,5 +45,8 @@
 
 ### [爬取彩虹屁网站将内容写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/GetBeautifulWord/GetBeautifulWord.py)
 
+
+### [字符表示简单图片](https://github.com/PeakofMountains/DailyPractice/blob/master/ToCharPicture/ToCharPicture.py)
+
 ![image](https://pic2.zhimg.com/80/v2-f67a04cacf979657bbf052b6f26e65b1_1440w.jpg)
 -----------------------------------
