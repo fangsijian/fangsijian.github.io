@@ -42,9 +42,13 @@
 ### [通过获得QQmusic的评论实例学习爬虫中应对Json的处理手段](https://github.com/PeakofMountains/DailyPractice/blob/master/GetQQmusiccomments/GetQQmusiccomments.py)
 
 ### [使用Postman自动生成请求代码，可用于Json格式的网页请求](https://github.com/PeakofMountains/DailyPractice/blob/master/CreatecodebyPostman/CreatecodebyPostman.md)
+## 下面这三个是同一个方法的三个应用改编(Postman是真的好用！)： 
 
-### [爬取彩虹屁网站将内容写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/GetBeautifulWord/GetBeautifulWord.py)
+### 1.[爬取彩虹屁网站将内容写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/GetBeautifulWord/GetBeautifulWord.py)
 
+### 2.[爬取朋友圈文案写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/FriendZoneWords/FriendZoneWords.py)
+
+### 3.[爬取毒鸡汤写到本地文件](https://github.com/PeakofMountains/DailyPractice/blob/master/PoisonChickenSoup/PoisonChickenSoup.py)
 
 ### [字符表示简单图片](https://github.com/PeakofMountains/DailyPractice/blob/master/ToCharPicture/ToCharPicture.py)
 
