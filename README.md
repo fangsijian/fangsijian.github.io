@@ -54,3 +54,4 @@
 
 ![image](https://pic2.zhimg.com/80/v2-f67a04cacf979657bbf052b6f26e65b1_1440w.jpg)
 -----------------------------------
+### [学习使用Appium控制手机进行模拟操作](https://github.com/PeakofMountains/DailyPractice/blob/master/Appium/AppiumLearning.md)
